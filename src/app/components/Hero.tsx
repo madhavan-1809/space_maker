@@ -149,7 +149,7 @@
 
 // export default Hero;
   
-import { useEffect, useRef } from 'react';
+// import {  useRef } from 'react';
 import { motion } from 'motion/react';
 
 // function AnimatedBackground() {
