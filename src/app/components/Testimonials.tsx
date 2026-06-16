@@ -4,23 +4,23 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const testimonials = [
   {
-    name: 'Sarah Mitchell',
-    role: 'Homeowner',
-    location: 'Manhattan, NY',
-    quote: 'Space Makers transformed our penthouse into a masterpiece. Their attention to detail and understanding of luxury design is unparalleled.',
+    name: 'Sundaram Motors Management',
+    role: 'Commercial Client',
+    location: 'Ambattur Industrial Estate, Chennai',
+    quote: 'Space Makers delivered a seamless, comprehensive setup for our Mercedes-Benz showroom. From luxury partitions and false ceilings to full HVAC and fire protection infrastructure, their multi-service execution was completely handled under one roof.',
   },
   {
-    name: 'David Chen',
-    role: 'CEO, Tech Innovations',
-    location: 'San Francisco, CA',
-    quote: 'The commercial design they created for our headquarters perfectly balances elegance with functionality. Our team loves the new space.',
+    name: 'Valeo Lighting Infrastructure Team',
+    role: 'Industrial & MEP Client',
+    location: 'Sriperambudur, TN',
+    quote: 'Excellence in operational and technical execution. The team expertly handled our specialized Phase 2 cleanroom requirements, installing high-standard Rockwool panel partitions, Rockwool ceilings, and integrated fire doors with absolute precision.',
   },
   {
-    name: 'Isabella Rodriguez',
-    role: 'Art Collector',
-    location: 'Miami, FL',
-    quote: 'Working with Space Makers was an absolute pleasure. They captured my vision perfectly and exceeded all expectations.',
-  },
+    name: 'DOXA Coworking Spaces Operations',
+    role: 'Corporate Office Client',
+    location: 'Hyderabad, TS',
+    quote: 'The commercial design and fit-out created for our shared spaces perfectly balance modern corporate aesthetics with multi-functional utility. Excellent engineering across our custom furniture, lighting layouts, and MEP systems.',
+  }
 ];
 
 export function Testimonials() {
